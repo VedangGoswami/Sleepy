@@ -1,10 +1,9 @@
-# MaskDetection
-Deep Learning code to detect face mask
-I've succesfully trained a Deep Learning model with just 30 trainig picture dataset leveraging tranfer learning method. 
+# Alarm system for vehicles
+Computer Vision research code to detect sleepy driers and alarm them to wake up.  
 Work done:
-- Creating own dataset
-- Labelling dataset
-- Using pre-trained model
-- Pipeline configuration
-- Training
-- Testing
+- Taking real time inputs 
+- Face detection
+- Extract coordinates of face 
+- levaerage dlib library
+- Calculating Euclidean Norm using hypot 
+- Alarm using playsound
